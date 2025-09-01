@@ -33,8 +33,6 @@
 
 ---
 
-
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Singhshashi18)
