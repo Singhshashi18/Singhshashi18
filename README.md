@@ -5,8 +5,8 @@
 ![Typing GIF](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Building+cool+projects...;Learning+Next.js,+Express.js,+TypeScript...;Exploring+Generative+AI...)
 
 ---
+![Coder at Work](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-![Coder at Work](https://github.com/Singhshashi18/Singhshashi18/raw/main/Animated%20Working%20Man.gif)
 
 
 ## 🛠 Tech Stack & Tools
