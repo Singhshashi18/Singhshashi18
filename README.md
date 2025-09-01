@@ -5,6 +5,10 @@
 ![Typing GIF](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Building+cool+projects...;Learning+Next.js,+Express.js,+TypeScript...;Exploring+Generative+AI...)
 
 ---
+
+![Coder at Work](https://github.com/Singhshashi18/Singhshashi18/raw/main/Animated%20Working%20Man.gif)
+
+
 ## 🛠 Tech Stack & Tools
 
 | Frontend | Backend | Database | Tools & Others |
