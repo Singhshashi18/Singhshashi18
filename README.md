@@ -1,6 +1,4 @@
 # Hey there! 👋 I'm Shashi
-<img src="https://raw.githubusercontent.com/singhshashi18/singhshashi18/output/snake.svg" alt="Snake animation" />
-
 
 **Full-Stack Developer | MERN Stack | Next.js & TypeScript Enthusiast | Generative AI Explorer**  
 
@@ -8,6 +6,8 @@
 
 ---
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coder at Work" width="550"/>
+
+<img src="https://raw.githubusercontent.com/singhshashi18/singhshashi18/output/snake.svg" alt="Snake animation" />
 
 
 ## 🛠 Tech Stack & Tools
