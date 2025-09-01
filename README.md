@@ -35,12 +35,21 @@
 
 ---
 
-## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashi-prakash-singh-a58ab9358/)
-[![Discord](https://img.shields.io/badge/Discord-Nitin-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YourDiscordID)
-[![Gmail](https://img.shields.io/badge/Gmail-Nitin-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhshashi09871@gmail.com)
+## <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="28"/> Connect with Me  
 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/shashi-prakash-singh-a58ab9358/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="mailto:singhshashi09871@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
+
+### ✨ **Let's Build Something Awesome Together!**
