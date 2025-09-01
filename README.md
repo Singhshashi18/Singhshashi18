@@ -36,6 +36,9 @@
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashi-prakash-singh-a58ab9358/)
+[![Discord](https://img.shields.io/badge/Discord-Nitin-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YourDiscordID)
+[![Gmail](https://img.shields.io/badge/Gmail-Nitin-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhshashi09871@gmail.com)
+
 
 
 ---
