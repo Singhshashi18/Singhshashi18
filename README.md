@@ -35,8 +35,7 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Singhshashi18)
-[![Twitter](https://img.shields.io/badge/Twitter-@NitinSingh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashi-prakash-singh-a58ab9358/)
 
 
 ---
