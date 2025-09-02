@@ -21,7 +21,6 @@
 
 
 ---
-
 ## 📊 GitHub Stats
 
 ![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Singhshashi18&show_icons=true&theme=radical)
