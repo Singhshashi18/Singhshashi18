@@ -28,9 +28,12 @@
 
 ---
 
-## 📈 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Singhshashi18&theme=radical)
+
+##  GitHub Contribution Streak
+
+<!-- Use Vercel-hosted streak card for better reliability -->
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Singhshashi18&theme=radical)
 
 ---
 
