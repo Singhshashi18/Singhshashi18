@@ -35,24 +35,20 @@
 <!-- Use Vercel-hosted streak card for better reliability -->
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Singhshashi18&theme=radical)
 
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="28"/> Connect with Me  
+## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shashi-prakash-singh-a58ab9358/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="40" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="mailto:singhshashi09871@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 
-
----
 
 ### ✨ **Let's Build Something Awesome Together!**
