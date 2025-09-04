@@ -9,7 +9,7 @@
 
 <img src="https://raw.githubusercontent.com/singhshashi18/singhshashi18/output/snake.svg" alt="Snake animation" />
 
-
+ 
 ## 🛠 Tech Stack & Tools
  
 | Frontend | Backend | Database | Tools & Others |
