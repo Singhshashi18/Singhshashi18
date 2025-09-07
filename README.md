@@ -35,8 +35,6 @@
 <!-- Use Vercel-hosted streak card for better reliability -->
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Singhshashi18&theme=radical)
 
-<img width="100%" src="https://repobeats.axiom.co/api/embed/6bfca2f20f39738048b6e70ca205efde46352c3d.svg" />
-
 
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
 
