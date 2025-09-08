@@ -19,7 +19,7 @@
 | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![Pinecone](https://img.shields.io/badge/Pinecone-3B82F6?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAh1BMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8lYjvNAAAAJXRSTlMAEBAgICAwQEBQUGBwgICQsLDAwNDg8RERITFBUWFxgYGRobHR4fIyQmJjH+nF0AAABFSURBVBjTY2CAAkYGBgYGhgYGBiYGFiYGBkYGBgYGBiYGRgYGBgZGBiYGBiYGBgYGBgYGBgZGBlYmBiYGBgYGAAD8RBlSG7e2ZQAAAABJRU5ErkJggg==) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | - | ![Generative AI](https://img.shields.io/badge/Generative_AI-FC5C7D?style=for-the-badge&logo=openai&logoColor=white) |
 
-
+ 
 ---
 ## 📊 GitHub Stats
 
