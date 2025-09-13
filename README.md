@@ -7,9 +7,9 @@
 ![Typing GIF](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Building+cool+projects...;Learning+Next.js,+Express.js,+TypeScript...;Exploring+Generative+AI...)
    
 --     
-<img    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coder at Work" width="650"/>
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coder at Work" width="800"/>
+<div >
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"  width="800" />
 </div>
 
  
@@ -40,6 +40,11 @@
 
 
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Procoder1234556&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 
 
 ## 🔗 Connect with Me
