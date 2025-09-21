@@ -1,4 +1,4 @@
-  ![Profile Views](https://komarev.com/ghpvc/?username=Singhshashi18&color=FF7A8A&style=for-the-badge&label=🔥+Profile+Views)
+   ![Profile Views](https://komarev.com/ghpvc/?username=Singhshashi18&color=FF7A8A&style=for-the-badge&label=🔥+Profile+Views)
 
 # Hey there! 👋 I'm Shashi   
    
