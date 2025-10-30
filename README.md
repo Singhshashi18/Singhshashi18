@@ -1,6 +1,6 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=Singhshashi18&color=FF7A8A&style=for-the-badge&label=🔥+Profile+Views) 
 
-# Hey there! 👋 I'm Shashi       
+# Hey there! 👋 I'm Shashi        
        
 **Full-Stack Developer | MERN Stack | Next.js & TypeScript Enthusiast | Generative AI Explorer**       
         
