@@ -17,7 +17,7 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"  width="800" />
 </div>
 
-
+ 
 ## 🛠 Tech Stack & Tools
 
 | Frontend | Backend | Database | Tools & Others |
