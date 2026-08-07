@@ -5,19 +5,19 @@
 
 <div align="center">
   <a href="https://github.com/Singhshashi18">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Singh+Shashi;Full-Stack+Engineer;React+%2B+Node.js+%2B+TypeScript;AI+%2F+LLM+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Singh+Shashi;Full+Stack+AI+Engineer;AI+Engineer;Building+AI-Agent+Powered+Products" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Focus-Full--Stack-0D1117?style=for-the-badge&labelColor=161B22&color=2F81F7" alt="Full-Stack"/>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20AI%20Engineer-0D1117?style=for-the-badge&labelColor=161B22&color=2F81F7" alt="Full Stack AI Engineer"/>
   <img src="https://img.shields.io/badge/Available-Open%20to%20Work-0D1117?style=for-the-badge&labelColor=161B22&color=238636" alt="Available"/>
 
   <br/><br/>
 
   <p>
-    <b>Full-Stack Engineer</b> building production-ready web apps<br/>
-    React · Next.js · Node.js · TypeScript · Python · AI / LLM Apps
+    <b>Full Stack AI Engineer</b> building production-ready web apps and AI products<br/>
+    React · Next.js · Node.js · TypeScript · Python · AI / LLM Apps · AI Agents
   </p>
 
   <p>
@@ -36,7 +36,8 @@ I work across the modern stack:
 - Building responsive web apps with React and Next.js
 - Designing APIs and services with Node.js, Python, and TypeScript
 - Integrating AI / LLM features into real product workflows
-- Owning features end-to-end — UI, architecture, integrations, delivery
+- Building AI agents, automations, and intelligent copilots
+- Working end-to-end — UI, architecture, integrations, delivery
 
 ---
 
@@ -47,6 +48,7 @@ I work across the modern stack:
 | **Frontend** | React, Next.js, TypeScript, JavaScript |
 | **Backend** | Node.js, Express, Python, REST APIs |
 | **AI / LLM** | OpenAI, LangChain, RAG, AI agents, chatbots |
+| **AI Agents** | LangGraph, CrewAI, AutoGen, MCP, function calling, tool use |
 | **Architecture** | Full-stack systems, modular apps, scalable UI + API design |
 | **State & UI** | Redux, Zustand, Tailwind CSS, SCSS, shadcn/ui |
 | **Data & Cloud** | MongoDB, PostgreSQL, Redis, Docker, AWS, Vercel |
@@ -57,7 +59,7 @@ I work across the modern stack:
 </p>
 
 **Also working with**
-`OpenAI API` `RAG pipelines` `AI chatbots` `Supabase` `Firebase` `tRPC` `WebSockets` `Stripe` `Auth systems`
+`OpenAI API` `RAG pipelines` `AI chatbots` `Supabase` `Firebase` `tRPC` `WebSockets` `Stripe` `Auth systems` `LangGraph` `CrewAI` `AutoGen` `MCP` `Prompt Engineering` `Vector Databases` `Pinecone` `Chroma` `FAISS`
 
 ---
 
@@ -65,10 +67,6 @@ I work across the modern stack:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Singhshashi18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Singhshashi18&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singhshashi18&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
 ---
