@@ -1,70 +1,133 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Singhshashi18&color=FF7A8A&style=for-the-badge&label=🔥+Profile+Views)
+<!--
+  Create public repo: Rahul-Khera-Codes/Rahul-Khera-Codes
+  Add this as README.md
+-->
 
+<div align="center">
+  <a href="https://github.com/Rahul-Khera-Codes">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Rahul+Khera;Full-Stack+%26+AI+Engineer;Vue+%7C+Nuxt+%7C+React+%7C+Next.js+%7C+Node.js+%7C+AI" alt="Rahul Khera" />
+  </a>
 
-  
-    
- 
-# Hey there! :wave: I'm Shashi
+  <br/><br/>
 
-**Full-Stack Developer | MERN Stack | Next.js & TypeScript Enthusiast | Generative AI Explorer**
+  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-0D1117?style=for-the-badge&labelColor=161B22&color=2F81F7" alt="8+ Years"/>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20AI-0D1117?style=for-the-badge&labelColor=161B22&color=238636" alt="Full-Stack + AI"/>
+  <img src="https://img.shields.io/badge/Available-Freelance%20%2F%20Contract-0D1117?style=for-the-badge&labelColor=161B22&color=A371F7" alt="Available"/>
 
-![Typing   GIF](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Building+cool+projects...;Learning+Next.js,+Express.js,+TypeScript...;Exploring+Generative+AI...)
+  <br/><br/>
 
- 
---
-<img     src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coder at Work" width="800"/>
-<div >
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"  width="800" />
+  <p>
+    <b>Full-Stack & AI Engineer</b> with 8+ years building production web products<br/>
+    Vue · Nuxt · React · Next.js · Node.js · TypeScript · Python · AI / LLM Apps
+  </p>
+
+  <p>
+    <a href="https://www.upwork.com/freelancers/~013f5e8b8ccb7b0396"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=flat-square&logo=upwork&logoColor=white" alt="Upwork"/></a>
+    &nbsp;
+    <a href="https://github.com/Rahul-Khera-Codes"><img src="https://img.shields.io/badge/GitHub-Rahul--Khera--Codes-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  </p>
 </div>
 
- 
-## 🛠 Tech Stack & Tools
-
-| Frontend | Backend | Database | Tools & Others |
-|----------|---------|----------|----------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![Pinecone](https://img.shields.io/badge/Pinecone-3B82F6?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAh1BMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8lYjvNAAAAJXRSTlMAEBAgICAwQEBQUGBwgICQsLDAwNDg8RERITFBUWFxgYGRobHR4fIyQmJjH+nF0AAABFSURBVBjTY2CAAkYGBgYGhgYGBiYGFiYGBkYGBgYGBiYGRgYGBgZGBiYGBiYGBgYGBgYGBgZGBlYmBiYGBgYGAAD8RBlSG7e2ZQAAAABJRU5ErkJggg==) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | - | ![Generative AI](https://img.shields.io/badge/Generative_AI-FC5C7D?style=for-the-badge&logo=openai&logoColor=white) |
-
-
 ---
-## :bar_chart: GitHub Stats
 
-![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Singhshashi18&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Singhshashi18&layout=compact&theme=radical)
+## Profile
+
+I am a full-stack engineer with **8+ years of experience** delivering production applications across SaaS, commerce, admin platforms, and AI-powered products.
+
+I work across the modern stack:
+
+- Building scalable web apps with Vue / Nuxt and React / Next.js
+- Designing APIs and services with Node.js, Python, and TypeScript
+- Integrating AI / LLM features into real product workflows
+- Owning features end-to-end — UI, architecture, integrations, delivery
+
+Open to **freelance and contract engagements**.
 
 ---
 
+## Core Expertise
 
-
-##  GitHub Contribution Streak
-
-<!-- Use Vercel-hosted streak card for better reliability -->
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Singhshashi18&theme=radical)
-
-
-
-## :trophy: GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Procoder1234556&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-
-
-## :link: Connect with Me
+| Area | Skills |
+|------|--------|
+| **Frontend** | Vue 3, Nuxt 3, React, Next.js, TypeScript, JavaScript |
+| **Backend** | Node.js, Express, NestJS, Python, FastAPI, REST, GraphQL |
+| **AI / LLM** | OpenAI, LangChain, RAG, prompt engineering, AI agents, chatbots |
+| **Architecture** | Full-stack systems, modular apps, scalable UI + API design |
+| **State & UI** | Pinia, Vuex, Redux, Zustand, Tailwind CSS, SCSS, shadcn/ui |
+| **Data & Cloud** | MongoDB, PostgreSQL, Redis, Prisma, Docker, AWS, Vercel |
+| **Tooling** | Git, CI/CD, Vite, Webpack, testing workflows |
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shashi-prakash-singh-a58ab9358/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="mailto:singhshashi09871@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,ts,js,nodejs,express,nestjs,python,fastapi,graphql,mongodb,postgres,redis,prisma,docker,aws,vercel,tailwind,sass,git,github,openai" alt="Technology stack" />
 </p>
 
+**Also working with**
+`LangChain` `OpenAI API` `RAG pipelines` `AI chatbots` `Vector DBs` `Supabase` `Firebase` `tRPC` `WebSockets` `Stripe` `Auth systems`
 
+---
 
-### :sparkles: **Let's Build Something Awesome Together!**
-![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
+## Selected Work
+
+| Project | Stack | Overview |
+|---------|-------|----------|
+| [**RequestHub**](https://github.com/Rahul-Khera-Codes/RequestHub) | Vue | Structured request management interface |
+| [**Stock-Hub**](https://github.com/Rahul-Khera-Codes/Stock-Hub) | TypeScript | Inventory / stock workflow application |
+| [**Clock-in-Clock-out-system**](https://github.com/Rahul-Khera-Codes/Clock-in-Clock-out-system) | TypeScript | Attendance and time-tracking system |
+| [**CartEase**](https://github.com/Rahul-Khera-Codes/CartEase) | Vue | Commerce cart and checkout experience |
+| [**Whisker-World**](https://github.com/Rahul-Khera-Codes/Whisker-World) | Vue | Product-facing storefront UI |
+| [**personalized-recipe-generator**](https://github.com/Rahul-Khera-Codes/personalized-recipe-generator) | React · Node · MongoDB | Ingredient-based recipe generation platform |
+| [**ChefMateAI**](https://github.com/Rahul-Khera-Codes/ChefMateAI) | Python · AI | AI-assisted recipe and meal planning tool |
+| [**finance**](https://github.com/Rahul-Khera-Codes/finance) | TypeScript | Finance-focused application |
+
+---
+
+## Engineering Focus
+
+<pre>
+• End-to-end full-stack delivery across frontend and backend
+• Modern Vue / React architectures with strong TypeScript practices
+• AI-powered features: chatbots, RAG, agents, LLM integrations
+• API design, cloud-ready services, and maintainable system layers
+• Performance, accessibility, and production-grade delivery quality
+</pre>
+
+---
+
+## GitHub Overview
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Rahul-Khera-Codes&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+---
+
+## Engagement Model
+
+| Type | Fit |
+|------|-----|
+| **Freelance / Contract** | Feature delivery, product builds, app modernization |
+| **Full-stack delivery** | Vue/React apps + Node/Python APIs |
+| **AI product features** | Chatbots, RAG, LLM workflows, AI-assisted tools |
+| **Product engineering** | SaaS dashboards, admin panels, commerce platforms |
+
+Prefer projects where ownership, structure, and delivery quality matter.
+
+---
+
+<div align="center">
+
+  ### Let’s work together
+
+  <a href="https://www.upwork.com/freelancers/~013f5e8b8ccb7b0396">
+    <img src="https://img.shields.io/badge/View%20Upwork%20Profile-2F81F7?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Profile"/>
+  </a>
+
+  <br/><br/>
+
+  <sub>Rahul Khera · Full-Stack & AI Engineer · Vue / Nuxt / React / Next.js / Node.js / AI</sub>
+
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=Rahul-Khera-Codes&label=Profile%20views&color=2F81F7&style=flat-square" alt="Profile views"/>
+
+</div>
