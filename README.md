@@ -73,7 +73,6 @@ I work across the modern stack:
 
 ---
 
-## Let’s Connect
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Singhshashi18&label=Profile%20views&color=2F81F7&style=flat-square" alt="Profile views"/>
