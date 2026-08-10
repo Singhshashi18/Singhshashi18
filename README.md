@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Singh+Shashi;Full+Stack+AI+Engineer;AI+Engineer;Building+AI-Agent+Powered+Products" alt="Typing SVG" />
   </a> 
 
-  <br/><br/>
+  <br/><br/> 
 
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20AI%20Engineer-0D1117?style=for-the-badge&labelColor=161B22&color=2F81F7" alt="Full Stack AI Engineer"/>
   <img src="https://img.shields.io/badge/Available-Open%20to%20Work-0D1117?style=for-the-badge&labelColor=161B22&color=238636" alt="Available"/>
