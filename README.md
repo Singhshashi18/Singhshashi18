@@ -59,7 +59,7 @@ I work across the modern stack:
 </p>
 
 **Also working with**
-`OpenAI API` `RAG pipelines` `AI chatbots` `Supabase` `Firebase` `tRPC` `WebSockets` `Stripe` `Auth systems` `LangGraph` `CrewAI` `AutoGen` `MCP` `Prompt Engineering` `Vector Databases` `Pinecone` `Chroma` `FAISS`
+`OpenAI API``Claude` `RAG pipelines` `AI chatbots` `Supabase` `Firebase` `tRPC` `WebSockets` `Stripe` `Auth systems` `LangGraph` `CrewAI` `AutoGen` `MCP` `Prompt Engineering` `Vector Databases` `Pinecone` `Chroma` `FAISS`
 
 ---
 
