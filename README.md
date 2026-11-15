@@ -2,7 +2,7 @@
   Create public repo: Singhshashi18/Singhshashi18
   Add this as README.md
 -->
-
+ 
 <div align="center">
   <a href="https://github.com/Singhshashi18">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Singh+Shashi;Full+Stack+AI+Engineer;AI+Engineer;Building+AI-Agent+Powered+Products" alt="Typing SVG" />
